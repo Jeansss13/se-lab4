@@ -1,0 +1,6 @@
+SUCCESS # GT4500
+# SUCCESS and FAIL in an alternating order
+SUCCESS
+FAIL
+SUCCESS
+FAIL
