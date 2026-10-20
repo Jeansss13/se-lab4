@@ -1,0 +1,4 @@
+SUCCESS # GT4500
+SUCCESS # first store
+FAIL # second store
+FAIL # second store

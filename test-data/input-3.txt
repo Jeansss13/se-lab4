@@ -1,0 +1,5 @@
+# Switches stores if one is empty
+GT4500,1,0,2,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
